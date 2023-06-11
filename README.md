@@ -1,4 +1,4 @@
-# Spatial Database Design Project
+# Spatial Database Design Project - National Parks Recreational Database
 This repository contains the SQL file and the reports of this spatial database design project. The description for each file lists below.
 
 ## Geog 574_Final Report_Group 1.pdf
