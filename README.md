@@ -3,7 +3,7 @@ This repository contains the SQL file and the reports of this spatial database d
 
 <br>If you are looking for a comprehensive report, check out our <a href='https://github.com/KCivilEnGI/Spatial_DB_Design/blob/main/Geog%20574_Final%20Report_Group%201.pdf'> Final Report</a>
 <br>If you just want a brief description about this project, check out the <a href='https://github.com/KCivilEnGI/Spatial_DB_Design/blob/main/Geog%20574_Group%201_Abstract.pdf'>Abstract</a>
-<br>For the SQL code, we have the code and the screenshots in <a href='[https://github.com/KCivilEnGI/Spatial_DB_Design/blob/main/Geog%20574_Group%201_Abstract.pdf](https://github.com/KCivilEnGI/Spatial_DB_Design/blob/main/Geog574_FinalProjectSQLResults_Group1.pdf)'>SQL Results</a>.
+<br>For the SQL code, we have the code and the screenshots in <a href='https://github.com/KCivilEnGI/Spatial_DB_Design/blob/main/Geog574_FinalProjectSQLResults_Group1.pdf'>SQL Results</a>.
 
 ## The description for each file lists below:
 ### Geog 574_Final Report_Group 1.pdf
