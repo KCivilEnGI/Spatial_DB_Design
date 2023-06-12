@@ -2,8 +2,6 @@
 This repository contains the SQL file and the reports of this spatial database design project. The data for this project were obtained from the National Park Service (NPS) and the United States Department of Agriculture, Forest Service (USDA-FS). The database we created can be download it <a href='https://github.com/KCivilEnGI/Spatial_DB_Design/raw/main/NP_Database_postgres_Group1.sql'><u>here<u></a> or download **NP_Database_postgres_Group1.sql** in this repository.
 
 ## The description for each file lists below:
-<br>-------------------------------------------------------------------------------------------------------------------
-
 ### Geog 574_Final Report_Group 1.pdf
 This is the most detailed report about our project. It includes the relational model design, implementation, methodologies, etc.
 ### Geog 574_Group 1_Abstract.pdf
