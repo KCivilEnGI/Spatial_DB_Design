@@ -1,4 +1,6 @@
 # Spatial Database Design Project - National Parks Recreational Database
+Course: Spatial Database | UW-Madison<br>
+Instructor: Qunying Huang<br><br><br>
 This repository contains the SQL file and the reports of this spatial database design project. We used PostgreSQL with its extension, PostGIS, to create the database and perform traditional and spatial data queries. The data for this project were obtained from the National Park Service (NPS) and the United States Department of Agriculture, Forest Service (USDA-FS). The database we created can be downloaded <a href='https://github.com/KCivilEnGI/Spatial_DB_Design/raw/main/NP_Database_postgres_Group1.sql'><u>here<u></a> or download **NP_Database_postgres_Group1.sql** in this repository.
 
 <br>If you are looking for a comprehensive report about how we designed the database and more, check out our <a href='https://github.com/KCivilEnGI/Spatial_DB_Design/blob/main/Geog%20574_Final%20Report_Group%201.pdf'> Final Report</a>.
